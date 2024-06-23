@@ -1,0 +1,1 @@
+# Thumbs-Up-for-YOLO-v8-An-Improved-Deep-Learning-Approach-to-Sign-Language-Recognition
